@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\",
+  "WorkspaceRootPath": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|c:\\users\\lenovo\\source\\repos\\randevusistemi\\randevusistemi\\sekreter\\mainsekreter.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|c:\\users\\furkansoylu\\onedrive\\documents\\github\\randevusistemi\\randevusistemi\\sekreter\\mainsekreter.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|solutionrelative:randevusistemi\\sekreter\\mainsekreter.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|c:\\users\\lenovo\\source\\repos\\randevusistemi\\randevusistemi\\sekreter\\anasayfasekreter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\randevusistemi\\sekreter\\anasayfasekreter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|solutionrelative:randevusistemi\\sekreter\\anasayfasekreter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|c:\\users\\lenovo\\source\\repos\\randevusistemi\\randevusistemi\\sekreter\\anasayfasekreter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\randevusistemi\\sekreter\\anasayfasekreter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|solutionrelative:randevusistemi\\sekreter\\anasayfasekreter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|c:\\users\\lenovo\\source\\repos\\randevusistemi\\randevusistemi\\app_code\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\randevusistemi\\app_code\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|solutionrelative:randevusistemi\\app_code\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|c:\\users\\lenovo\\source\\repos\\randevusistemi\\randevusistemi\\sekreter\\anasayfasekreter.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\randevusistemi\\sekreter\\anasayfasekreter.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|solutionrelative:randevusistemi\\sekreter\\anasayfasekreter.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|c:\\users\\lenovo\\source\\repos\\randevusistemi\\randevusistemi\\app_code\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\randevusistemi\\app_code\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4562B20-F623-4B0C-AAA9-BED88D04C0A4}|RandevuSistemi\\RandevuSistemi.csproj|solutionrelative:randevusistemi\\app_code\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,36 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainSekreter.Master",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\Sekreter\\MainSekreter.Master",
+              "DocumentMoniker": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\Sekreter\\MainSekreter.Master",
               "RelativeDocumentMoniker": "RandevuSistemi\\Sekreter\\MainSekreter.Master",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\Sekreter\\MainSekreter.Master*",
-              "RelativeToolTip": "RandevuSistemi\\Sekreter\\MainSekreter.Master*",
+              "ToolTip": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\Sekreter\\MainSekreter.Master",
+              "RelativeToolTip": "RandevuSistemi\\Sekreter\\MainSekreter.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-07-18T08:41:35.4Z",
@@ -73,66 +65,61 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AnasayfaSekreter.aspx",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx",
+              "DocumentMoniker": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx",
               "RelativeDocumentMoniker": "RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx",
+              "ToolTip": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx",
               "RelativeToolTip": "RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-18T08:38:37.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T08:38:37.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AnasayfaSekreter.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.designer.cs",
               "RelativeDocumentMoniker": "RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.designer.cs",
               "RelativeToolTip": "RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T08:25:46.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T08:25:46.118Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AnasayfaSekreter.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.cs",
               "RelativeDocumentMoniker": "RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.cs",
+              "ToolTip": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.cs",
               "RelativeToolTip": "RandevuSistemi\\Sekreter\\AnasayfaSekreter.aspx.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T08:24:12.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T08:24:12.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainClass.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\App_Code\\MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\App_Code\\MainClass.cs",
               "RelativeDocumentMoniker": "RandevuSistemi\\App_Code\\MainClass.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\App_Code\\MainClass.cs",
+              "ToolTip": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\App_Code\\MainClass.cs",
               "RelativeToolTip": "RandevuSistemi\\App_Code\\MainClass.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAmwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T08:23:10.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T08:23:10.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "DataClass.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\App_Code\\DataClass.cs",
+              "DocumentMoniker": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\App_Code\\DataClass.cs",
               "RelativeDocumentMoniker": "RandevuSistemi\\App_Code\\DataClass.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\RandevuSistemi\\RandevuSistemi\\App_Code\\DataClass.cs",
+              "ToolTip": "C:\\Users\\furkansoylu\\OneDrive\\Documents\\GitHub\\RandevuSistemi\\RandevuSistemi\\App_Code\\DataClass.cs",
               "RelativeToolTip": "RandevuSistemi\\App_Code\\DataClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T08:22:37.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T08:22:37.624Z"
             }
           ]
         }
